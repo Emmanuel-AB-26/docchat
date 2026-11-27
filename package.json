@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "@prisma/prisma7": "^7.10.1"
+  },
+  "dependencies": {
+    "@neondatabase/serverless": "^1.2.1",
+    "@prisma/adapter-neon": "^6.19.3"
+  }
+}
